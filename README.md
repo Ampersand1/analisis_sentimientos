@@ -19,3 +19,5 @@ pip install tf-keras
 
 Para verificar el funcionamiento de FastAPI, que es la API implementada para el proyecto use python -m uvicorn main:app --port 3001 --reload
 
+Finalmente, acceda al prototipo con el archivo index.html
+
